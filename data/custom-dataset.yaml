@@ -1,0 +1,16 @@
+path: ./CustomTrainingData # dataset root dir
+train: images/train  # train images (relative to 'path') 128 images
+val: images/val  # val images (relative to 'path') 128 images
+
+# Classes
+names:
+  0: Blue canon minion
+  1: Blue caster minion
+  2: Blue mega minion
+  3: Blue mele minion
+  4: Red cannon minion
+  5: Red caster minion
+  6: Red mega minion
+  7: Red mele minion
+
+
